@@ -27,6 +27,7 @@ void stack_operation(){
 }
 
 int ProcessImage(char* filename){
+	int test = 0;
 	FILE *fp;
 	struct Image img;
 
